@@ -3,8 +3,8 @@ import { Github, Linkedin, Twitter, Instagram } from "lucide-react";
 const socials = [
   { icon: Linkedin, href: "", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/vrund567", label: "GitHub" },
-  { icon: Twitter, href: "#", label: "Twitter" },
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Twitter, href: "https://x.com/Vrund807", label: "Twitter" },
+  { icon: Instagram, href: "https://www.instagram.com/i_vrund/", label: "Instagram" },
 ];
 
 const Footer = () => (
